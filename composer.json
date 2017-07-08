@@ -1,13 +1,7 @@
 {
     "name": "lecuong/generators",
     "description": "Generate files for laravel projects",
-    "keywords": [
-        "generators",
-        "model",
-        "view",
-        "request",
-        "config"
-    ],
+    "keywords": [],
     "homepage": "https://github.com/lecuong284/generators",
     "license": "MIT",
     "authors": [
